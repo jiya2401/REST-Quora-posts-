@@ -1,0 +1,26 @@
+h1 {
+    background-color: rgb(124, 165, 201);
+}
+
+.post {
+    background-color: rgb(123, 207, 130);
+}
+
+.user {
+    font-style: italic;
+} */
+
+
+
+.card {
+  border-radius: 1rem;
+}
+
+.card-title {
+  font-weight: 600;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  
+}

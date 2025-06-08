@@ -12,6 +12,6 @@ A simple web app inspired by Quora’s post system.
 
 - Node.js + Express.js
 - EJS Templates
-- Bootstrap 5
+- Bootstrap 
 - HTML/CSS
 
